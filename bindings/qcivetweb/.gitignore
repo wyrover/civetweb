@@ -1,0 +1,7 @@
+*.pro.user
+qcivetweb-test
+Makefile
+moc_*
+*.moc
+*.a
+*.o
